@@ -46,7 +46,7 @@ In short, DDD is primarily about modeling a Ubiquitous Language in a explicity B
 A Bounded Context is an explicit boundary within which a domain model exists. Inside the boundary all terms ans phrases of the Ubiquitous Language have specific meaning, and the model replects the Language with exactness.
 *Vernon, Vaughn. Implementing Domain-Driven Design*
 
-### "Contexto é Reio"
+### "Contexto é Rei"
 ![Domínio e Subdominios](./.github/contexto-e-rei-1.png)
 
 **Contexto diferentes se comunicam/trabalham juntos.**
@@ -69,3 +69,5 @@ Em ambos contextos o cliente é o mesmo, porém a perspectiva **é diferente**.
 - Big Ball of Mud
 
 https://github.com/ddd-crew/context-mapping
+https://miro.com/app/board/o9J_kqtuB6A=/
+https://miro.com/app/board/o9J_kqrI8ck=/
